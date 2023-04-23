@@ -23,7 +23,7 @@ elif num == 3:
 else:
     print("/: ",num)
     
-condicion = int(input('Ingrese el simbolo de la operacion de la operación(teniendo en cuenta que el simbolo impreso): '))
+condicion = int(input('Adivine el numero de la operacion de la operación(teniendo en cuenta que el simbolo impreso): '))
 if condicion == num:
     print("Felicidades acertaste")
 else:
